@@ -12,6 +12,7 @@ tags:
   - bootloader
 ---
 
+![efistub](/images/efistub.png)
 
 
 So in this post I'm gonna guide you how you can use efistub, a feature which you can use to boot the kernel without an extra boot manager(grub, systemd-boot, rEFInd etc.)

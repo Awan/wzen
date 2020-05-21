@@ -18,12 +18,10 @@ Sometimes we install systems and don't care about setting timezone. Or we travel
 ```
 You will see a dialog box opened.
 
-{{< figure src=/images/tzdata-continent.png title="Select continent" >}}
 
 Select your continent.
 
 Hit enter after selecting your continent using arrow keys.
 
-{{< figure src=/images/tzdata-city.png title="Select city" >}}
 
 Select your city and hit Enter. Voila, you are done! 

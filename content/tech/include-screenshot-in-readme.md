@@ -27,6 +27,9 @@ you like.
 You will get a link once the screenshot is uploaded. Just copy it and paste it
 in your README.md
 
+![issues screenshot](https://user-images.githubusercontent.com/42554663/82585126-f4173d80-9bae-11ea-8e78-bfaf93788211.png)
+
+
 Close the page 'new issue', you don't need to create an issue.
 
 Commit and push changes. Done.
